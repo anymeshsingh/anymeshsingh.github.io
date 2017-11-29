@@ -9,7 +9,7 @@ body
 {
     height: 100vh;
     width: 100vw;
-    background: url(./Bgsm.jpg) no-repeat;
+    background: url("https://raw.githubusercontent.com/anymeshsingh/anymeshsingh.github.io/master/Bgsm.jpg") no-repeat;
     background-size: cover;
 }
 .content
