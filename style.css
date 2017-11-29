@@ -33,7 +33,7 @@ a
 {
    .container
    {
-       background: url(./Bg.jpg) no-repeat;
+       background: url("https://raw.githubusercontent.com/anymeshsingh/anymeshsingh.github.io/master/Bg.jpg") no-repeat;
        background-size: cover;
    }
 }
