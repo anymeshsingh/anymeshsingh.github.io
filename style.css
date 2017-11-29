@@ -9,7 +9,7 @@ body
 {
     height: 100vh;
     width: 100vw;
-    background: url(./assets/bgsm.jpg) no-repeat;
+    background: url(bgsm.jpg) no-repeat;
     background-size: cover;
 }
 .content
@@ -33,7 +33,7 @@ a
 {
    .container
    {
-       background: url(./assets/bg.jpg) no-repeat;
+       background: url(bg.jpg) no-repeat;
        background-size: cover;
    }
 }
